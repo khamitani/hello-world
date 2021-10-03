@@ -1,8 +1,10 @@
 # hello-world
-not a beginners though
-i am a react devloper
-heY buddies!!!
-I like doing new things,and that's why i am doing this today
-and lot more yet to try...
-great work keep going..... 
-fast learner.......
+> Hello I am React Developer and I love programming in Javascript
+
+# Skills
+- [X] Javascript
+- [X] C++
+- [X] React
+- [X] NodeJS
+- [X] MongoDB
+- [X] Github
