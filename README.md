@@ -1,5 +1,5 @@
 # Introduction
-> Hello I am React Developer and I love programming in Javascript
+> Hello there, I am React Developer and I love programming in Javascript
 
 # Skills
 - [X] Javascript
