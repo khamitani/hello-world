@@ -13,4 +13,7 @@
 - Javascript: Primary programing language
 - nodejs: Used in the backend
 - express: To create the calling API
-- React: Use in The Frontend
+- React: Used in The Frontend
+
+# Contribution
+> feel free to contribute 🙂
