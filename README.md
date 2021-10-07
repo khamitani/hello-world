@@ -1,5 +1,5 @@
 # hello-world
-> Hello I am React Developer and I love programming in Javascript
+> Hello I am front End Developer and I love to make web applications
 
 # Skills
 - [X] Javascript
